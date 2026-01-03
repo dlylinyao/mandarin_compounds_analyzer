@@ -1,4 +1,4 @@
-﻿Word,Expected_Structure,Predicted_Structure,Score,Correct
+﻿Word,Expected_Structure,Predicted_Structure,Weight,Correct
 也好,ModHead,ModHead,0.0,True
 书记,ModHead,ModHead,0.0,True
 亲人,ModHead,ModHead,0.0,True

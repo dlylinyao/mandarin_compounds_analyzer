@@ -43,7 +43,7 @@ def main():
                         parsed_data.append({
                             'Word': word, 
                             'Predicted_Structure': structure, 
-                            'Score': score
+                            'Weight': score
                         })
                     except ValueError:
                         continue
@@ -57,11 +57,11 @@ def main():
 
     df_preds_raw = pd.DataFrame(parsed_data)
 
-    df_preds_raw = df_preds_raw.sort_values(by=['Word', 'Score'], ascending=[True, True])
+    df_preds_raw = df_preds_raw.sort_values(by=['Word', 'Weight'], ascending=[True, True])
     
     best_preds = df_preds_raw.drop_duplicates(subset=['Word'], keep='first')
 
-    df_merged = pd.merge(df_gt, best_preds[['Word', 'Predicted_Structure', 'Score']], on='Word', how='left')
+    df_merged = pd.merge(df_gt, best_preds[['Word', 'Predicted_Structure', 'Weight']], on='Word', how='left')
 
     df_merged['Predicted_Structure'] = df_merged['Predicted_Structure'].fillna('No Prediction')
 
@@ -80,7 +80,7 @@ def main():
     print("-" * 40)
 
 
-    output_df = df_merged[['Word', 'Expected_Structure', 'Predicted_Structure', 'Score', 'is_correct']].copy()
+    output_df = df_merged[['Word', 'Expected_Structure', 'Predicted_Structure', 'Weight', 'is_correct']].copy()
     output_df.rename(columns={'is_correct': 'Correct'}, inplace=True)
     
     output_df.to_csv(output_file, index=False, encoding='utf-8-sig')
