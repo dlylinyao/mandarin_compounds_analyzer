@@ -1,0 +1,166 @@
+﻿Word,Source,Components,Expected_Structure
+也好,HSK (Level 5),也(ADV) + 好(ADJ),ModHead
+书记,HSK (Level 7-9),书(N) + 记(V),ModHead
+亲人,HSK (Level 3),亲(ADJ) + 人(N),ModHead
+亲近,HSK (Level 7-9),亲(ADJ) + 近(ADJ),Coord
+人才,HSK (Level 3),人(N) + 才(ADV),ModHead
+人数,HSK (Level 2),人(N) + 数(V),ModHead
+他人,HSK (Level 7-9),他(PRON) + 人(N),ModHead
+信念,HSK (Level 5),信(N) + 念(V),ModHead
+先后,HSK (Level 5),先(ADV) + 后(N),Coord
+初级,HSK (Level 3),初(ADV) + 级(N),ModHead
+别人,HSK (Level 1),别(ADV) + 人(N),ModHead
+别看,HSK (Level 7-9),别(ADV) + 看(V),ModHead
+动人,HSK (Level 3),动(V) + 人(N),ModHead
+北边,HSK (Level 1),北(N) + 边(N),ModHead
+发动,HSK (Level 3),发(V) + 动(V),Result
+发起,HSK (Level 6),发(V) + 起(V),Result
+后人,HSK (Level 7-9),后(N) + 人(N),ModHead
+后头,HSK (Level 4),后(N) + 头(ADJ),ModHead
+后边,HSK (Level 1),后(N) + 边(N),ModHead
+回信,HSK (Level 5),回(V) + 信(N),VerbObj
+回国,HSK (Level 2),回(V) + 国(N),VerbObj
+回头,HSK (Level 5),回(V) + 头(ADJ),VerbObj
+国土,HSK (Level 7-9),国(N) + 土(N),ModHead
+国歌,HSK (Level 6),国(N) + 歌(N),ModHead
+夜晚,HSK (Level 7-9),夜(N) + 晚(ADJ),Coord
+头发,HSK (Level 2),头(ADJ) + 发(V),ModHead
+好人,HSK (Level 2),好(ADJ) + 人(N),ModHead
+好看,HSK (Level 1),好(ADJ) + 看(V),ModHead
+完好,HSK (Level 7-9),完(V) + 好(ADJ),Coord
+完美,HSK (Level 3),完(V) + 美(ADJ),Coord
+完蛋,HSK (Level 7-9),完(V) + 蛋(N),VerbObj
+平时,HSK (Level 2),平(ADJ) + 时(N),ModHead
+念书,HSK (Level 7-9),念(V) + 书(N),VerbObj
+念头,HSK (Level 7-9),念(V) + 头(ADJ),ModHead
+才能,HSK (Level 3),才(ADV) + 能(V),Coord
+拍卖,HSK (Level 7-9),拍(V) + 卖(V),Serial
+提交,HSK (Level 6),提(V) + 交(V),Serial
+提起,HSK (Level 5),提(V) + 起(V),Result
+提高,HSK (Level 2),提(V) + 高(ADJ),Result
+数字,HSK (Level 2),数(V) + 字(N),ModHead
+新人,HSK (Level 6),新(ADJ) + 人(N),ModHead
+深信,HSK (Level 7-9),深(ADJ) + 信(N),ModHead
+深夜,HSK (Level 7-9),深(ADJ) + 夜(N),ModHead
+看好,HSK (Level 6),看(V) + 好(ADJ),Result
+看见,HSK (Level 1),看(V) + 见(V),Result
+短信,HSK (Level 2),短(ADJ) + 信(N),ModHead
+短缺,HSK (Level 7-9),短(ADJ) + 缺(V),Result
+祝福,HSK (Level 4),祝(V) + 福(N),VerbObj
+紧缺,HSK (Level 7-9),紧(ADJ) + 缺(V),ModHead
+级别,HSK (Level 7-9),级(N) + 别(ADV),ModHead
+美人,HSK (Level 7-9),美(ADJ) + 人(N),ModHead
+美好,HSK (Level 3),美(ADJ) + 好(ADJ),Coord
+背后,HSK (Level 3),背(V) + 后(N),ModHead
+能人,HSK (Level 7-9),能(V) + 人(N),ModHead
+能干,HSK (Level 4),能(V) + 干(ADJ),ModHead
+见证,HSK (Level 7-9),见(V) + 证(N),VerbObj
+记住,HSK (Level 1),记(V) + 住(V),Result
+证书,HSK (Level 5),证(N) + 书(N),ModHead
+证人,HSK (Level 7-9),证(N) + 人(N),ModHead
+起初,HSK (Level 7-9),起(V) + 初(ADV),ModHead
+起床,HSK (Level 1),起(V) + 床(N),VerbObj
+起草,HSK (Level 7-9),起(V) + 草(N),VerbObj
+起飞,HSK (Level 2),起(V) + 飞(V),Serial
+跳动,HSK (Level 7-9),跳(V) + 动(V),Result
+跳高,HSK (Level 3),跳(V) + 高(ADJ),Result
+这边,HSK (Level 1),这(PRON) + 边(N),ModHead
+钟头,HSK (Level 6),钟(N) + 头(ADJ),ModHead
+风雨,HSK (Level 7-9),风(N) + 雨(N),Coord
+飞船,HSK (Level 6),飞(V) + 船(N),ModHead
+高级,HSK (Level 2),高(ADJ) + 级(N),ModHead
+高贵,HSK (Level 7-9),高(ADJ) + 贵(ADJ),Coord
+高铁,HSK (Level 4),高(ADJ) + 铁(N),ModHead
+鸡蛋,HSK (Level 1),鸡(N) + 蛋(N),ModHead
+书信,CC-CEDICT,书(N) + 信(N),Coord
+争先,CC-CEDICT,争(V) + 先(ADV),Result
+交办,CC-CEDICT,交(V) + 办(V),Serial
+交好,CC-CEDICT,交(V) + 好(ADJ),Result
+交配,CC-CEDICT,交(V) + 配(V),Serial
+交钱,CC-CEDICT,交(V) + 钱(N),VerbObj
+亲信,CC-CEDICT,亲(ADJ) + 信(N),ModHead
+亲旧,CC-CEDICT,亲(ADJ) + 旧(ADJ),Coord
+亲美,CC-CEDICT,亲(ADJ) + 美(ADJ),ModHead
+人墙,CC-CEDICT,人(N) + 墙(N),ModHead
+人头,CC-CEDICT,人(N) + 头(ADJ),ModHead
+人烟,CC-CEDICT,人(N) + 烟(N),ModHead
+人肉,CC-CEDICT,人(N) + 肉(N),ModHead
+人证,CC-CEDICT,人(N) + 证(N),ModHead
+人鱼,CC-CEDICT,人(N) + 鱼(N),ModHead
+他国,CC-CEDICT,他(PRON) + 国(N),ModHead
+先人,CC-CEDICT,先(ADV) + 人(N),ModHead
+先发,CC-CEDICT,先(ADV) + 发(V),ModHead
+先河,CC-CEDICT,先(ADV) + 河(N),ModHead
+先见,CC-CEDICT,先(ADV) + 见(V),ModHead
+刀背,CC-CEDICT,刀(N) + 背(V),ModHead
+初夜,CC-CEDICT,初(ADV) + 夜(N),ModHead
+别字,CC-CEDICT,别(ADV) + 字(N),ModHead
+办好,CC-CEDICT,办(V) + 好(ADJ),Result
+办证,CC-CEDICT,办(V) + 证(N),VerbObj
+动土,CC-CEDICT,动(V) + 土(N),VerbObj
+动能,CC-CEDICT,动(V) + 能(V),ModHead
+北国,CC-CEDICT,北(N) + 国(N),ModHead
+北平,CC-CEDICT,北(N) + 平(ADJ),ModHead
+北约,CC-CEDICT,北(N) + 约(V),ModHead
+北美,CC-CEDICT,北(N) + 美(ADJ),ModHead
+北风,CC-CEDICT,北(N) + 风(N),ModHead
+卖国,CC-CEDICT,卖(V) + 国(N),VerbObj
+卖完,CC-CEDICT,卖(V) + 完(V),Result
+卖肉,CC-CEDICT,卖(V) + 肉(N),VerbObj
+卖钱,CC-CEDICT,卖(V) + 钱(N),VerbObj
+发回,CC-CEDICT,发(V) + 回(V),Result
+发毛,CC-CEDICT,发(V) + 毛(N),VerbObj
+发白,CC-CEDICT,发(V) + 白(ADJ),Result
+发福,CC-CEDICT,发(V) + 福(N),Result
+发配,CC-CEDICT,发(V) + 配(V),Serial
+后土,CC-CEDICT,后(N) + 土(N),ModHead
+后背,CC-CEDICT,后(N) + 背(V),ModHead
+后记,CC-CEDICT,后(N) + 记(V),ModHead
+喝高,CC-CEDICT,喝(V) + 高(ADJ),Result
+回交,CC-CEDICT,回(V) + 交(V),VerbObj
+回见,CC-CEDICT,回(V) + 见(V),Serial
+国书,CC-CEDICT,国(N) + 书(N),ModHead
+国人,CC-CEDICT,国(N) + 人(N),ModHead
+国别,CC-CEDICT,国(N) + 别(ADV),ModHead
+国风,CC-CEDICT,国(N) + 风(N),ModHead
+土拍,CC-CEDICT,土(N) + 拍(V),ModHead
+土鸡,CC-CEDICT,土(N) + 鸡(N),ModHead
+夜鸟,CC-CEDICT,夜(N) + 鸟(N),ModHead
+头回,CC-CEDICT,头(ADJ) + 回(V),ModHead
+头晚,CC-CEDICT,头(ADJ) + 晚(ADJ),ModHead
+头脸,CC-CEDICT,头(ADJ) + 脸(N),Coord
+头铁,CC-CEDICT,头(ADJ) + 铁(N),ModHead
+奶头,CC-CEDICT,奶(N) + 头(ADJ),ModHead
+好办,CC-CEDICT,好(ADJ) + 办(V),Result
+好动,CC-CEDICT,好(ADJ) + 动(V),ModHead
+好喝,CC-CEDICT,好(ADJ) + 喝(V),ModHead
+好时,CC-CEDICT,好(ADJ) + 时(N),ModHead
+好记,CC-CEDICT,好(ADJ) + 记(V),ModHead
+好鸟,CC-CEDICT,好(ADJ) + 鸟(N),ModHead
+字数,CC-CEDICT,字(N) + 数(V),ModHead
+完人,CC-CEDICT,完(V) + 人(N),ModHead
+干渴,CC-CEDICT,干(ADJ) + 渴(ADJ),Coord
+干系,CC-CEDICT,干(ADJ) + 系(N),ModHead
+干草,CC-CEDICT,干(ADJ) + 草(N),ModHead
+平头,CC-CEDICT,平(ADJ) + 头(ADJ),ModHead
+平白,CC-CEDICT,平(ADJ) + 白(ADJ),Coord
+平米,CC-CEDICT,平(ADJ) + 米(N),ModHead
+床头,CC-CEDICT,床(N) + 头(ADJ),ModHead
+床边,CC-CEDICT,床(N) + 边(N),ModHead
+念旧,CC-CEDICT,念(V) + 旧(ADJ),Result
+慢跑,CC-CEDICT,慢(ADJ) + 跑(V),ModHead
+才干,CC-CEDICT,才(ADV) + 干(ADJ),Coord
+拍发,CC-CEDICT,拍(V) + 发(V),Serial
+提亲,CC-CEDICT,提(V) + 亲(ADJ),VerbObj
+提干,CC-CEDICT,提(V) + 干(ADJ),VerbObj
+提级,CC-CEDICT,提(V) + 级(N),VerbObj
+新北,CC-CEDICT,新(ADJ) + 北(N),ModHead
+新土,CC-CEDICT,新(ADJ) + 土(N),ModHead
+新河,CC-CEDICT,新(ADJ) + 河(N),ModHead
+新约,CC-CEDICT,新(ADJ) + 约(V),ModHead
+新贵,CC-CEDICT,新(ADJ) + 贵(ADJ),ModHead
+鸟飞,Manually Add,鸟 + 飞,SubjPred
+鸡跳,Manually Add,鸡 + 跳,SubjPred
+人跑,Manually Add,人 + 跑,SubjPred
+草绿,Manually Add,草 + 绿,SubjPred
+风动,Manually Add,风 + 动,SubjPred

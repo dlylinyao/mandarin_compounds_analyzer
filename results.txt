@@ -1,0 +1,781 @@
+也好	Morphemes: 也 好	0.000000
+也好	Structure: ModHead	0.000000
+
+书记	Morphemes: 书 记	0.000000
+书记	Structure: ModHead	0.000000
+书记	Structure: Coord	0.400391
+书记	Structure: SubjPred	1.000000
+书记	Structure: VerbObj	1.599609
+书记	Structure: Serial	1.700195
+书记	Structure: Result	2.099609
+
+亲人	Morphemes: 亲 人	0.000000
+亲人	Structure: ModHead	0.000000
+亲人	Structure: VerbObj	0.099609
+亲人	Structure: Coord	0.400391
+
+亲近	Morphemes: 亲 近	0.000000
+亲近	Structure: Coord	0.400391
+亲近	Structure: Result	0.599609
+亲近	Structure: SubjPred	1.000000
+
+人才	Morphemes: 人 才	0.000000
+人才	Structure: ModHead	0.000000
+人才	Structure: Coord	0.400391
+
+人数	Morphemes: 人 数	0.500000
+人数	Structure: ModHead	0.500000
+人数	Structure: Coord	0.900391
+人数	Structure: SubjPred	2.000000
+
+他人	Morphemes: 他 人	0.000000
+他人	Structure: ModHead	0.000000
+
+信念	Morphemes: 信 念	0.000000
+信念	Structure: ModHead	0.000000
+信念	Structure: Coord	0.400391
+信念	Structure: SubjPred	1.000000
+信念	Structure: VerbObj	1.099609
+信念	Structure: Serial	1.200195
+信念	Structure: Result	1.599609
+
+先后	Morphemes: 先 后	0.000000
+先后	Structure: Coord	0.900391
+先后	Structure: ModHead	1.000000
+
+初级	Morphemes: 初 级	0.000000
+初级	Structure: ModHead	0.000000
+
+别人	Morphemes: 别 人	0.000000
+别人	Structure: ModHead	0.200195
+别人	Structure: VerbObj	1.099609
+别人	Structure: Coord	1.900391
+
+别看	Morphemes: 别 看	0.000000
+别看	Structure: ModHead	0.000000
+别看	Structure: ModHead	0.200195
+别看	Structure: Serial	1.200195
+别看	Structure: Coord	1.400391
+别看	Structure: Result	1.599609
+别看	Structure: SubjPred	2.500000
+
+动人	Morphemes: 动 人	0.000000
+动人	Structure: ModHead	0.000000
+动人	Structure: VerbObj	0.099609
+
+北边	Morphemes: 北 边	0.000000
+北边	Structure: ModHead	0.000000
+北边	Structure: Coord	0.400391
+
+发动	Morphemes: 发 动	0.000000
+发动	Structure: Serial	0.200195
+发动	Structure: Coord	0.400391
+发动	Structure: Result	0.599609
+发动	Structure: SubjPred	1.500000
+
+发起	Morphemes: 发 起	0.000000
+发起	Structure: VerbObj	0.099609
+发起	Structure: Serial	0.200195
+发起	Structure: Coord	0.400391
+发起	Structure: ModHead	0.500000
+发起	Structure: Result	0.599609
+发起	Structure: SubjPred	1.500000
+
+后人	Morphemes: 后 人	0.000000
+后人	Structure: ModHead	0.000000
+后人	Structure: Coord	0.400391
+
+后头	Morphemes: 后 头	0.000000
+后头	Structure: ModHead	0.000000
+后头	Structure: Coord	0.400391
+后头	Structure: ModHead	1.500000
+
+后边	Morphemes: 后 边	0.000000
+后边	Structure: ModHead	0.000000
+后边	Structure: Coord	0.400391
+后边	Structure: ModHead	1.000000
+
+回信	Morphemes: 回 信	0.000000
+回信	Structure: VerbObj	0.099609
+回信	Structure: ModHead	0.500000
+回信	Structure: Coord	0.900391
+回信	Structure: Serial	1.200195
+回信	Structure: Result	1.599609
+回信	Structure: SubjPred	2.500000
+
+回国	Morphemes: 回 国	0.000000
+回国	Structure: VerbObj	0.099609
+回国	Structure: ModHead	0.500000
+回国	Structure: Coord	0.900391
+
+回头	Morphemes: 回 头	0.000000
+回头	Structure: VerbObj	0.099609
+回头	Structure: ModHead	0.500000
+回头	Structure: Coord	0.900391
+回头	Structure: Result	1.599609
+回头	Structure: SubjPred	2.500000
+
+国土	Morphemes: 国 土	0.000000
+国土	Structure: ModHead	0.000000
+国土	Structure: Coord	0.400391
+
+国歌	Morphemes: 国 歌	0.000000
+国歌	Structure: ModHead	0.000000
+国歌	Structure: Coord	0.400391
+
+夜晚	Morphemes: 夜 晚	0.000000
+夜晚	Structure: Coord	0.400391
+
+头发	Morphemes: 头 发	0.000000
+头发	Structure: ModHead	0.500000
+头发	Structure: Coord	0.900391
+头发	Structure: SubjPred	1.000000
+
+好人	Morphemes: 好 人	0.000000
+好人	Structure: ModHead	0.000000
+好人	Structure: VerbObj	1.099609
+
+好看	Morphemes: 好 看	0.000000
+好看	Structure: ModHead	0.000000
+好看	Structure: Serial	1.200195
+好看	Structure: Coord	1.400391
+好看	Structure: Result	1.599609
+
+完好	Morphemes: 完 好	0.000000
+完好	Structure: Coord	0.400391
+完好	Structure: Result	0.599609
+完好	Structure: ModHead	1.000000
+完好	Structure: Serial	1.200195
+
+完美	Morphemes: 完 美	0.000000
+完美	Structure: Coord	0.400391
+完美	Structure: ModHead	0.500000
+完美	Structure: Result	0.599609
+完美	Structure: VerbObj	0.599609
+完美	Structure: Serial	1.200195
+
+完蛋	Morphemes: 完 蛋	0.000000
+完蛋	Structure: ModHead	0.000000
+完蛋	Structure: VerbObj	0.099609
+
+平时	Morphemes: 平 时	0.000000
+平时	Structure: ModHead	0.000000
+平时	Structure: Coord	0.400391
+
+念书	Morphemes: 念 书	0.000000
+念书	Structure: ModHead	0.000000
+念书	Structure: VerbObj	0.099609
+念书	Structure: Coord	0.400391
+念书	Structure: Serial	1.700195
+念书	Structure: Result	2.099609
+念书	Structure: SubjPred	2.500000
+
+念头	Morphemes: 念 头	0.000000
+念头	Structure: ModHead	0.000000
+念头	Structure: VerbObj	0.099609
+念头	Structure: Coord	0.400391
+念头	Structure: Result	1.599609
+念头	Structure: SubjPred	2.000000
+
+才能	Morphemes: 才 能	0.500000
+才能	Structure: ModHead	0.500000
+才能	Structure: Coord	0.900391
+才能	Structure: ModHead	1.500000
+
+拍卖	Morphemes: 拍 卖	0.000000
+拍卖	Structure: Serial	0.200195
+拍卖	Structure: Coord	0.400391
+拍卖	Structure: Result	0.599609
+拍卖	Structure: SubjPred	1.000000
+
+提交	Morphemes: 提 交	0.000000
+提交	Structure: Serial	0.200195
+提交	Structure: Coord	0.400391
+提交	Structure: Result	0.599609
+
+提起	Morphemes: 提 起	0.000000
+提起	Structure: VerbObj	0.099609
+提起	Structure: Serial	0.200195
+提起	Structure: Coord	0.400391
+提起	Structure: Result	0.599609
+
+提高	Morphemes: 提 高	0.000000
+提高	Structure: Result	0.599609
+
+数字	Morphemes: 数 字	0.500000
+数字	Structure: ModHead	0.500000
+数字	Structure: Coord	0.900391
+数字	Structure: VerbObj	1.099609
+
+新人	Morphemes: 新 人	0.000000
+新人	Structure: ModHead	0.000000
+新人	Structure: VerbObj	1.099609
+
+深信	Morphemes: 深 信	0.000000
+深信	Structure: ModHead	0.000000
+
+深夜	Morphemes: 深 夜	0.000000
+深夜	Structure: ModHead	0.000000
+
+看好	Morphemes: 看 好	0.000000
+看好	Structure: Result	0.599609
+看好	Structure: Serial	1.200195
+看好	Structure: Coord	1.400391
+
+看见	Morphemes: 看 见	0.000000
+看见	Structure: Serial	0.200195
+看见	Structure: Result	0.599609
+
+短信	Morphemes: 短 信	0.000000
+短信	Structure: ModHead	0.000000
+短信	Structure: VerbObj	0.099609
+短信	Structure: Serial	1.200195
+短信	Structure: Coord	1.400391
+短信	Structure: Result	1.599609
+
+短缺	Morphemes: 短 缺	0.000000
+短缺	Structure: ModHead	0.000000
+短缺	Structure: Serial	0.200195
+短缺	Structure: Coord	0.400391
+短缺	Structure: Result	0.599609
+
+祝福	Morphemes: 祝 福	0.000000
+祝福	Structure: VerbObj	0.099609
+祝福	Structure: Result	0.599609
+
+紧缺	Morphemes: 紧 缺	0.000000
+紧缺	Structure: ModHead	0.000000
+
+级别	Morphemes: 级 别	0.000000
+级别	Structure: SubjPred	1.200195
+级别	Structure: ModHead	1.500000
+级别	Structure: Coord	1.900391
+
+美人	Morphemes: 美 人	0.000000
+美人	Structure: ModHead	0.000000
+美人	Structure: Coord	0.900391
+美人	Structure: VerbObj	1.099609
+
+美好	Morphemes: 美 好	0.000000
+美好	Structure: Coord	0.400391
+美好	Structure: ModHead	1.000000
+美好	Structure: Result	1.599609
+美好	Structure: Serial	2.200195
+
+背后	Morphemes: 背 后	0.500000
+背后	Structure: ModHead	0.500000
+背后	Structure: VerbObj	0.599609
+背后	Structure: Coord	0.900391
+
+能人	Morphemes: 能 人	0.500000
+能人	Structure: ModHead	0.500000
+能人	Structure: Coord	0.900391
+能人	Structure: VerbObj	1.099609
+
+能干	Morphemes: 能 干	0.500000
+能干	Structure: ModHead	0.500000
+能干	Structure: Coord	0.900391
+能干	Structure: VerbObj	1.099609
+能干	Structure: Serial	1.200195
+能干	Structure: SubjPred	1.500000
+能干	Structure: Result	1.599609
+
+见证	Morphemes: 见 证	0.000000
+见证	Structure: VerbObj	0.099609
+
+记住	Morphemes: 记 住	0.000000
+记住	Structure: Serial	0.200195
+记住	Structure: Coord	0.400391
+记住	Structure: Result	0.599609
+记住	Structure: SubjPred	1.000000
+
+证书	Morphemes: 证 书	0.000000
+证书	Structure: ModHead	0.000000
+证书	Structure: Coord	0.400391
+证书	Structure: SubjPred	2.500000
+
+证人	Morphemes: 证 人	0.000000
+证人	Structure: ModHead	0.000000
+证人	Structure: Coord	0.400391
+
+起初	Morphemes: 起 初	0.000000
+起初	Structure: Result	0.599609
+起初	Structure: ModHead	1.000000
+起初	Structure: Coord	1.900391
+
+起床	Morphemes: 起 床	0.000000
+起床	Structure: VerbObj	0.099609
+起床	Structure: Coord	0.400391
+
+起草	Morphemes: 起 草	0.000000
+起草	Structure: VerbObj	0.099609
+起草	Structure: Coord	0.400391
+
+起飞	Morphemes: 起 飞	0.000000
+起飞	Structure: Serial	0.200195
+起飞	Structure: Coord	0.400391
+起飞	Structure: Result	0.599609
+起飞	Structure: ModHead	1.000000
+
+跳动	Morphemes: 跳 动	0.000000
+跳动	Structure: Serial	0.200195
+跳动	Structure: Coord	0.400391
+跳动	Structure: Result	0.599609
+
+跳高	Morphemes: 跳 高	0.000000
+跳高	Structure: Result	0.599609
+
+这边	Morphemes: 这 边	0.000000
+这边	Structure: ModHead	0.000000
+
+钟头	Morphemes: 钟 头	0.000000
+钟头	Structure: ModHead	0.000000
+钟头	Structure: Coord	0.400391
+钟头	Structure: VerbObj	1.099609
+钟头	Structure: SubjPred	2.000000
+钟头	Structure: Result	2.599609
+
+风雨	Morphemes: 风 雨	0.000000
+风雨	Structure: ModHead	0.000000
+风雨	Structure: Coord	0.400391
+
+飞船	Morphemes: 飞 船	0.000000
+飞船	Structure: ModHead	0.000000
+飞船	Structure: VerbObj	0.099609
+
+高级	Morphemes: 高 级	0.000000
+高级	Structure: ModHead	0.000000
+
+高贵	Morphemes: 高 贵	0.000000
+高贵	Structure: ModHead	0.000000
+高贵	Structure: Coord	0.400391
+
+高铁	Morphemes: 高 铁	0.000000
+高铁	Structure: ModHead	0.000000
+
+鸡蛋	Morphemes: 鸡 蛋	0.000000
+鸡蛋	Structure: ModHead	0.000000
+鸡蛋	Structure: Coord	0.400391
+
+书信	Morphemes: 书 信	0.000000
+书信	Structure: ModHead	0.000000
+书信	Structure: Coord	0.400391
+书信	Structure: VerbObj	1.599609
+书信	Structure: SubjPred	2.000000
+书信	Structure: Serial	2.700195
+书信	Structure: Result	3.099609
+
+争先	Morphemes: 争 先	0.000000
+争先	Structure: Result	1.599609
+
+交办	Morphemes: 交 办	0.000000
+交办	Structure: Serial	0.200195
+交办	Structure: Coord	0.400391
+交办	Structure: Result	0.599609
+
+交好	Morphemes: 交 好	0.000000
+交好	Structure: Result	0.599609
+交好	Structure: Serial	1.200195
+交好	Structure: Coord	1.400391
+
+交配	Morphemes: 交 配	0.000000
+交配	Structure: Serial	0.200195
+交配	Structure: Coord	0.400391
+交配	Structure: Result	0.599609
+
+交钱	Morphemes: 交 钱	0.000000
+交钱	Structure: VerbObj	0.099609
+
+亲信	Morphemes: 亲 信	0.000000
+亲信	Structure: ModHead	0.000000
+亲信	Structure: VerbObj	0.099609
+亲信	Structure: Coord	0.400391
+亲信	Structure: Serial	1.200195
+亲信	Structure: Result	1.599609
+亲信	Structure: SubjPred	2.000000
+
+亲旧	Morphemes: 亲 旧	0.000000
+亲旧	Structure: Coord	0.400391
+亲旧	Structure: Result	0.599609
+亲旧	Structure: SubjPred	1.000000
+
+亲美	Morphemes: 亲 美	0.000000
+亲美	Structure: Coord	0.400391
+亲美	Structure: ModHead	0.500000
+亲美	Structure: Result	0.599609
+亲美	Structure: VerbObj	0.599609
+亲美	Structure: SubjPred	1.000000
+亲美	Structure: Serial	1.200195
+
+人墙	Morphemes: 人 墙	0.000000
+人墙	Structure: ModHead	0.000000
+人墙	Structure: Coord	0.400391
+
+人头	Morphemes: 人 头	0.000000
+人头	Structure: ModHead	0.000000
+人头	Structure: Coord	0.400391
+人头	Structure: SubjPred	2.000000
+
+人烟	Morphemes: 人 烟	0.000000
+人烟	Structure: ModHead	0.000000
+人烟	Structure: Coord	0.400391
+
+人肉	Morphemes: 人 肉	0.000000
+人肉	Structure: ModHead	0.000000
+人肉	Structure: Coord	0.400391
+
+人证	Morphemes: 人 证	0.000000
+人证	Structure: ModHead	0.000000
+人证	Structure: Coord	0.400391
+
+人鱼	Morphemes: 人 鱼	0.000000
+人鱼	Structure: ModHead	0.000000
+人鱼	Structure: Coord	0.400391
+
+他国	Morphemes: 他 国	0.000000
+他国	Structure: ModHead	0.000000
+
+先人	Morphemes: 先 人	0.000000
+先人	Structure: ModHead	1.000000
+
+先发	Morphemes: 先 发	0.000000
+先发	Structure: ModHead	0.000000
+先发	Structure: ModHead	1.000000
+
+先河	Morphemes: 先 河	0.000000
+先河	Structure: ModHead	1.000000
+
+先见	Morphemes: 先 见	0.000000
+先见	Structure: ModHead	0.000000
+
+刀背	Morphemes: 刀 背	0.500000
+刀背	Structure: ModHead	0.500000
+刀背	Structure: Coord	0.900391
+刀背	Structure: SubjPred	1.500000
+
+初夜	Morphemes: 初 夜	0.000000
+初夜	Structure: ModHead	0.000000
+
+别字	Morphemes: 别 字	0.000000
+别字	Structure: ModHead	0.200195
+别字	Structure: VerbObj	1.099609
+别字	Structure: Coord	1.900391
+
+办好	Morphemes: 办 好	0.000000
+办好	Structure: Result	0.599609
+办好	Structure: Serial	1.200195
+办好	Structure: Coord	1.400391
+
+办证	Morphemes: 办 证	0.000000
+办证	Structure: VerbObj	0.099609
+
+动土	Morphemes: 动 土	0.000000
+动土	Structure: ModHead	0.000000
+动土	Structure: VerbObj	0.099609
+
+动能	Morphemes: 动 能	0.500000
+动能	Structure: ModHead	0.500000
+动能	Structure: VerbObj	0.599609
+动能	Structure: Serial	1.200195
+动能	Structure: Result	1.599609
+
+北国	Morphemes: 北 国	0.000000
+北国	Structure: ModHead	0.000000
+北国	Structure: Coord	0.400391
+
+北平	Morphemes: 北 平	0.000000
+北平	Structure: ModHead	0.000000
+北平	Structure: Coord	0.400391
+
+北约	Morphemes: 北 约	0.000000
+北约	Structure: ModHead	0.500000
+
+北美	Morphemes: 北 美	0.000000
+北美	Structure: ModHead	0.500000
+北美	Structure: Coord	0.900391
+
+北风	Morphemes: 北 风	0.000000
+北风	Structure: ModHead	0.000000
+北风	Structure: Coord	0.400391
+
+卖国	Morphemes: 卖 国	0.000000
+卖国	Structure: VerbObj	0.099609
+
+卖完	Morphemes: 卖 完	0.000000
+卖完	Structure: Serial	0.200195
+卖完	Structure: Result	0.599609
+
+卖肉	Morphemes: 卖 肉	0.000000
+卖肉	Structure: VerbObj	0.099609
+
+卖钱	Morphemes: 卖 钱	0.000000
+卖钱	Structure: VerbObj	0.099609
+
+发回	Morphemes: 发 回	0.000000
+发回	Structure: Serial	0.200195
+发回	Structure: Coord	0.400391
+发回	Structure: Result	0.599609
+发回	Structure: VerbObj	0.599609
+发回	Structure: ModHead	1.000000
+发回	Structure: SubjPred	1.500000
+
+发毛	Morphemes: 发 毛	0.000000
+发毛	Structure: VerbObj	0.099609
+发毛	Structure: ModHead	0.500000
+发毛	Structure: Coord	0.900391
+
+发白	Morphemes: 发 白	0.000000
+发白	Structure: Result	0.599609
+发白	Structure: SubjPred	1.500000
+
+发福	Morphemes: 发 福	0.000000
+发福	Structure: VerbObj	0.099609
+发福	Structure: ModHead	0.500000
+发福	Structure: Result	0.599609
+发福	Structure: Coord	0.900391
+发福	Structure: SubjPred	1.500000
+
+发配	Morphemes: 发 配	0.000000
+发配	Structure: Serial	0.200195
+发配	Structure: Coord	0.400391
+发配	Structure: Result	0.599609
+发配	Structure: SubjPred	1.500000
+
+后土	Morphemes: 后 土	0.000000
+后土	Structure: ModHead	0.000000
+后土	Structure: Coord	0.400391
+
+后背	Morphemes: 后 背	0.500000
+后背	Structure: ModHead	0.500000
+后背	Structure: Coord	0.900391
+后背	Structure: ModHead	1.000000
+
+后记	Morphemes: 后 记	0.000000
+后记	Structure: ModHead	0.000000
+后记	Structure: Coord	0.400391
+后记	Structure: ModHead	0.500000
+
+喝高	Morphemes: 喝 高	0.000000
+喝高	Structure: Result	0.599609
+
+回交	Morphemes: 回 交	0.000000
+回交	Structure: Serial	0.200195
+回交	Structure: Coord	0.400391
+回交	Structure: Result	0.599609
+回交	Structure: SubjPred	1.500000
+
+回见	Morphemes: 回 见	0.000000
+回见	Structure: Serial	0.200195
+回见	Structure: Result	0.599609
+
+国书	Morphemes: 国 书	0.000000
+国书	Structure: ModHead	0.000000
+国书	Structure: Coord	0.400391
+
+国人	Morphemes: 国 人	0.000000
+国人	Structure: ModHead	0.000000
+国人	Structure: Coord	0.400391
+
+国别	Morphemes: 国 别	0.000000
+国别	Structure: ModHead	1.500000
+国别	Structure: Coord	1.900391
+
+国风	Morphemes: 国 风	0.000000
+国风	Structure: ModHead	0.000000
+国风	Structure: Coord	0.400391
+
+土拍	Morphemes: 土 拍	0.000000
+土拍	Structure: ModHead	0.000000
+土拍	Structure: Coord	0.400391
+土拍	Structure: SubjPred	1.000000
+
+土鸡	Morphemes: 土 鸡	0.000000
+土鸡	Structure: ModHead	0.000000
+土鸡	Structure: Coord	0.400391
+
+夜鸟	Morphemes: 夜 鸟	0.000000
+夜鸟	Structure: Coord	0.400391
+
+头回	Morphemes: 头 回	0.000000
+头回	Structure: ModHead	0.500000
+头回	Structure: Coord	0.900391
+头回	Structure: SubjPred	1.000000
+
+头晚	Morphemes: 头 晚	0.000000
+头晚	Structure: ModHead	0.000000
+头晚	Structure: Coord	0.400391
+头晚	Structure: SubjPred	2.000000
+
+头脸	Morphemes: 头 脸	0.000000
+头脸	Structure: ModHead	0.000000
+头脸	Structure: Coord	0.400391
+
+头铁	Morphemes: 头 铁	0.000000
+头铁	Structure: ModHead	0.000000
+头铁	Structure: Coord	0.400391
+
+奶头	Morphemes: 奶 头	0.000000
+奶头	Structure: ModHead	0.000000
+奶头	Structure: Coord	0.400391
+奶头	Structure: VerbObj	1.099609
+奶头	Structure: SubjPred	2.000000
+奶头	Structure: Result	2.599609
+
+好办	Morphemes: 好 办	0.000000
+好办	Structure: ModHead	0.000000
+好办	Structure: Serial	1.200195
+好办	Structure: Coord	1.400391
+好办	Structure: Result	1.599609
+
+好动	Morphemes: 好 动	0.000000
+好动	Structure: ModHead	0.000000
+好动	Structure: Coord	0.400391
+好动	Structure: Serial	1.200195
+好动	Structure: Result	1.599609
+
+好喝	Morphemes: 好 喝	0.000000
+好喝	Structure: ModHead	0.000000
+好喝	Structure: Serial	1.200195
+好喝	Structure: Coord	1.400391
+好喝	Structure: Result	1.599609
+
+好时	Morphemes: 好 时	0.000000
+好时	Structure: ModHead	0.000000
+好时	Structure: VerbObj	1.099609
+
+好记	Morphemes: 好 记	0.000000
+好记	Structure: ModHead	0.000000
+好记	Structure: VerbObj	1.099609
+好记	Structure: Serial	1.200195
+好记	Structure: Coord	1.400391
+好记	Structure: Result	1.599609
+
+好鸟	Morphemes: 好 鸟	0.000000
+好鸟	Structure: ModHead	0.000000
+好鸟	Structure: VerbObj	1.099609
+
+字数	Morphemes: 字 数	0.500000
+字数	Structure: ModHead	0.500000
+字数	Structure: Coord	0.900391
+字数	Structure: SubjPred	2.000000
+
+完人	Morphemes: 完 人	0.000000
+完人	Structure: ModHead	0.000000
+完人	Structure: VerbObj	0.099609
+
+干渴	Morphemes: 干 渴	0.000000
+干渴	Structure: Coord	0.400391
+干渴	Structure: Result	0.599609
+干渴	Structure: SubjPred	1.000000
+
+干系	Morphemes: 干 系	0.000000
+干系	Structure: ModHead	0.000000
+干系	Structure: VerbObj	0.099609
+干系	Structure: Coord	0.400391
+干系	Structure: Serial	0.700195
+干系	Structure: Result	1.099609
+干系	Structure: SubjPred	1.500000
+
+干草	Morphemes: 干 草	0.000000
+干草	Structure: ModHead	0.000000
+干草	Structure: VerbObj	0.099609
+干草	Structure: Coord	0.400391
+
+平头	Morphemes: 平 头	0.000000
+平头	Structure: ModHead	0.000000
+平头	Structure: Coord	0.400391
+
+平白	Morphemes: 平 白	0.000000
+平白	Structure: Coord	0.400391
+
+平米	Morphemes: 平 米	0.000000
+平米	Structure: ModHead	0.000000
+平米	Structure: Coord	0.400391
+
+床头	Morphemes: 床 头	0.000000
+床头	Structure: ModHead	0.000000
+床头	Structure: Coord	0.400391
+床头	Structure: SubjPred	2.000000
+
+床边	Morphemes: 床 边	0.000000
+床边	Structure: ModHead	0.000000
+床边	Structure: Coord	0.400391
+床边	Structure: SubjPred	1.500000
+
+念旧	Morphemes: 念 旧	0.000000
+念旧	Structure: Result	0.599609
+念旧	Structure: SubjPred	1.000000
+
+慢跑	Morphemes: 慢 跑	0.000000
+慢跑	Structure: ModHead	0.000000
+
+才干	Morphemes: 才 干	0.000000
+才干	Structure: ModHead	0.000000
+才干	Structure: Coord	0.400391
+才干	Structure: ModHead	0.500000
+才干	Structure: SubjPred	1.000000
+
+拍发	Morphemes: 拍 发	0.000000
+拍发	Structure: Serial	0.200195
+拍发	Structure: Coord	0.400391
+拍发	Structure: ModHead	0.500000
+拍发	Structure: Result	0.599609
+拍发	Structure: VerbObj	0.599609
+拍发	Structure: SubjPred	1.000000
+
+提亲	Morphemes: 提 亲	0.000000
+提亲	Structure: VerbObj	0.099609
+提亲	Structure: Serial	0.200195
+提亲	Structure: Coord	0.400391
+提亲	Structure: Result	0.599609
+
+提干	Morphemes: 提 干	0.000000
+提干	Structure: VerbObj	0.099609
+提干	Structure: Serial	0.200195
+提干	Structure: Coord	0.400391
+提干	Structure: Result	0.599609
+
+提级	Morphemes: 提 级	0.000000
+提级	Structure: VerbObj	0.099609
+
+新北	Morphemes: 新 北	0.000000
+新北	Structure: ModHead	0.000000
+新北	Structure: Coord	0.900391
+新北	Structure: VerbObj	1.099609
+新北	Structure: Result	2.099609
+
+新土	Morphemes: 新 土	0.000000
+新土	Structure: ModHead	0.000000
+新土	Structure: VerbObj	1.099609
+
+新河	Morphemes: 新 河	0.000000
+新河	Structure: ModHead	0.000000
+新河	Structure: VerbObj	1.099609
+
+新约	Morphemes: 新 约	0.000000
+新约	Structure: ModHead	0.000000
+新约	Structure: Serial	1.200195
+新约	Structure: Coord	1.400391
+新约	Structure: Result	1.599609
+
+新贵	Morphemes: 新 贵	0.000000
+新贵	Structure: ModHead	0.000000
+新贵	Structure: Coord	0.400391
+新贵	Structure: VerbObj	1.099609
+新贵	Structure: Result	1.599609
+
+鸟飞	Morphemes: 鸟 飞	0.000000
+鸟飞	Structure: SubjPred	1.000000
+
+鸡跳	Morphemes: 鸡 跳	0.000000
+鸡跳	Structure: SubjPred	1.000000
+
+人跑	Morphemes: 人 跑	0.000000
+人跑	Structure: SubjPred	1.000000
+
+草绿	Morphemes: 草 绿	0.000000
+草绿	Structure: SubjPred	1.000000
+
+风动	Morphemes: 风 动	0.000000
+风动	Structure: SubjPred	1.000000
+

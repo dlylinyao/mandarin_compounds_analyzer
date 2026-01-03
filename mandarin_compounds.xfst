@@ -1,0 +1,47 @@
+clear stack
+read lexc mandarin_compounds.lexc
+define Lexicon
+
+define Tags "+N" | "+V" | "+ADJ" | "+ADV" | "+PRON" | 
+            "+OBJ" | "+ACT" | "+RES" | "+PROP" | "+HUM" | "+LOC" | "+TIME" | "+ABSTRACT" ;
+
+define Space " " ;
+
+define Stem [ ? - Tags - Space ];
+
+define VerbObj  Stem "+V" [ "+ACT" | "+RES" ] Space Stem "+N" [ "+OBJ" | "+HUM" | "+LOC"| "+TIME" | "+ABSTRACT" ] ;
+
+define ModHead  [ Stem "+N" [ "+LOC" | "+OBJ" | "+ABSTRACT" ] |
+                  Stem "+ADJ" [ "+PROP" | "+RES" ] ] Space Stem "+N" [ "+OBJ" | "+ABSTRACT" | "+TIME" | "+HUM" | "+LOC" ] |
+                [ Stem "+ADJ" [ "+PROP" | "+RES" ] | Stem "+PRON" | Stem "+N" "+LOC" ] Space Stem "+N" "+HUM" |
+                [ Stem "+N" "+LOC" | Stem "+PRON" ] Space Stem "+N" "+LOC" |
+                [ Stem "+ADJ" [ "+PROP" | "+RES" ] ] Space Stem "+V" "+ACT" |
+                Stem "+ADV" Space [ Stem "+V" [ "+ACT" | "+RES" ] | Stem "+ADJ" [ "+PROP" | "+RES" ] ] |
+                Stem "+N" "+HUM" Space Stem "+N" [ "+OBJ" | "+ABSTRACT" ] |
+                Stem "+N" [ "+ABSTRACT" | "+OBJ" ] Space Stem "+N" "+HUM" ;
+
+define Result   Stem "+V" [ "+ACT" | "+RES" ] Space [ Stem "+ADJ" "+RES" | Stem "+V" [ "+ACT" | "+RES" ] | Stem "+ADJ" "+PROP" ] ;
+
+define SubjPred Stem "+N" [ "+OBJ" | "+HUM" | "+ABSTRACT" ] Space [ Stem "+ADJ" "+PROP" | Stem "+V" "+ACT" ] ;
+
+define Serial   Stem "+V" [ "+ACT" | "+RES" ] Space Stem "+V" [ "+ACT" | "+RES" ] ;
+
+define Coord    [ Stem "+N" ? Space Stem "+N" ? ] |
+                [ Stem "+ADV" Space Stem "+ADV" ] |
+                [ Stem "+V" "+ACT" Space Stem "+V" "+ACT" ] |
+                [ Stem "+ADJ" "+PROP" Space Stem "+ADJ" "+PROP" ] ;
+
+define MapStructure [ VerbObj  .x. {Structure: VerbObj} ::0.1 ] | 
+                    [ ModHead  .x. {Structure: ModHead} ] |
+                    [ Result   .x. {Structure: Result} ::0.6 ] |
+                    [ SubjPred .x. {Structure: SubjPred} ::1.0 ] |
+                    [ Serial   .x. {Structure: Serial} ::0.2 ] |
+                    [ Coord    .x. {Structure: Coord} ::0.4 ];
+
+define CleanTags Tags -> 0 ;
+
+define OutputMorphs Lexicon .o. CleanTags .o. [ 0:{Morphemes: } ?* ] ;
+
+define OutputStruct Lexicon .o. MapStructure ;
+
+regex OutputMorphs | OutputStruct ;

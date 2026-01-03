@@ -1,0 +1,176 @@
+Multichar_Symbols +N +V +ADJ +ADV +PRON +OBJ +ACT +RES +PROP +HUM +LOC +TIME +ABSTRACT
+
+LEXICON Root
+NounRoots ;
+VerbRoots ;
+AdjRoots ;
+AdvRoots ;
+PronRoots ;
+
+LEXICON NounRoots
+草:草+N+OBJ NextCompound;
+蛋:蛋+N+OBJ NextCompound;
+床:床+N+OBJ NextCompound;
+鸡:鸡+N+OBJ NextCompound;
+肉:肉+N+OBJ NextCompound;
+鸟:鸟+N+OBJ NextCompound;
+信:信+N+ABSTRACT NextCompound;
+信:信+N+OBJ NextCompound;
+歌:歌+N+OBJ NextCompound;
+字:字+N+OBJ NextCompound;
+铁:铁+N+OBJ NextCompound;
+奶:奶+N+OBJ NextCompound;
+脸:脸+N+OBJ NextCompound;
+国:国+N+LOC NextCompound;
+雨:雨+N+ABSTRACT NextCompound;
+福:福+N+ABSTRACT NextCompound;
+证:证+N+ABSTRACT NextCompound;
+土:土+N+OBJ NextCompound;
+北:北+N+LOC NextCompound;
+刀:刀+N+OBJ NextCompound;
+时:时+N+TIME NextCompound;
+墙:墙+N+OBJ NextCompound;
+船:船+N+OBJ NextCompound;
+树:树+N+OBJ NextCompound;
+碗:碗+N+OBJ NextCompound;
+边:边+N+LOC NextCompound;
+后:后+N+LOC NextCompound;
+课:课+N+OBJ NextCompound;
+烟:烟+N+OBJ NextCompound;
+夜:夜+N+TIME NextCompound;
+米:米+N+OBJ NextCompound;
+人:人+N+HUM NextCompound;
+鱼:鱼+N+OBJ NextCompound;
+钱:钱+N+OBJ NextCompound;
+毛:毛+N+OBJ NextCompound;
+级:级+N+ABSTRACT NextCompound;
+系:系+N+ABSTRACT NextCompound;
+书:书+N+OBJ NextCompound;
+河:河+N+OBJ NextCompound;
+钟:钟+N+OBJ NextCompound;
+风:风+N+ABSTRACT NextCompound;
+数:数+N+ABSTRACT NextCompound "weight: 0.5" ;
+能:能+N+ABSTRACT NextCompound "weight: 0.5" ;
+发:发+N+OBJ NextCompound "weight: 0.5" ;
+回:回+N+ABSTRACT NextCompound "weight: 0.5" ;
+背:背+N+OBJ NextCompound "weight: 0.5" ;
+亲:亲+N+HUM NextCompound;
+头:头+N+OBJ NextCompound;
+干:干+N+OBJ NextCompound "weight: 1.0" ;
+干:干+N+ABSTRACT NextCompound ;
+晚:晚+N+TIME NextCompound;
+别:别+N+ABSTRACT NextCompound "weight: 1.5" ;
+才:才+N+ABSTRACT NextCompound;
+记:记+N+HUM NextCompound;
+念:念+N+ABSTRACT NextCompound;
+美:美+N+LOC NextCompound "weight: 0.5" ;
+平:平+N+LOC NextCompound;
+拍:拍+N+OBJ NextCompound;
+贵:贵+N+HUM NextCompound;
+起:起+N+TIME NextCompound;
+
+LEXICON VerbRoots
+缺:缺+V+ACT NextCompound;
+订:订+V+ACT NextCompound;
+念:念+V+ACT NextCompound;
+办:办+V+ACT NextCompound;
+数:数+V+ACT NextCompound "weight: 1.0" ;
+能:能+V+RES NextCompound "weight: 1.0" ;
+争:争+V+ACT NextCompound;
+住:住+V+ACT NextCompound;
+完:完+V+RES NextCompound;
+跳:跳+V+ACT NextCompound;
+见:见+V+RES NextCompound;
+卖:卖+V+ACT NextCompound;
+喝:喝+V+ACT NextCompound;
+发:发+V+ACT NextCompound;
+看:看+V+ACT NextCompound;
+跑:跑+V+ACT NextCompound;
+拍:拍+V+ACT NextCompound;
+养:养+V+ACT NextCompound;
+演:演+V+ACT NextCompound;
+回:回+V+ACT NextCompound;
+交:交+V+ACT NextCompound;
+记:记+V+ACT NextCompound;
+飞:飞+V+ACT NextCompound;
+动:动+V+ACT NextCompound;
+动:动+V+RES NextCompound;
+起:起+V+ACT NextCompound;
+起:起+V+RES NextCompound;
+约:约+V+ACT NextCompound;
+提:提+V+ACT NextCompound;
+背:背+V+ACT NextCompound "weight: 0.5" ;
+配:配+V+ACT NextCompound;
+祝:祝+V+ACT NextCompound;
+信:信+V+ACT NextCompound "weight: 1.0" ;
+歌:歌+V+ACT NextCompound "weight: 1.0" ;
+奶:奶+V+ACT NextCompound "weight: 1.0" ;
+系:系+V+ACT NextCompound "weight: 0.5" ;
+书:书+V+ACT NextCompound "weight: 1.5" ;
+钟:钟+V+ACT NextCompound "weight: 1.0" ;
+亲:亲+V+ACT NextCompound ;
+美:美+V+ACT NextCompound "weight: 1.0" ;
+干:干+V+ACT NextCompound;
+好:好+V+ACT NextCompound "weight: 1.0" ;
+新:新+V+ACT NextCompound "weight: 1.0" ;
+别:别+V+ACT NextCompound "weight: 1.0" ;
+短:短+V+ACT NextCompound ;
+
+LEXICON AdjRoots
+白:白+ADJ+PROP NextCompound;
+贵:贵+ADJ+PROP NextCompound;
+绿:绿+ADJ+PROP NextCompound;
+忙:忙+ADJ+PROP NextCompound;
+紧:紧+ADJ+PROP NextCompound;
+亲:亲+ADJ+PROP NextCompound;
+头:头+ADJ+PROP NextCompound "weight: 1.0" ;
+短:短+ADJ+PROP NextCompound;
+旧:旧+ADJ+PROP NextCompound;
+慢:慢+ADJ+PROP NextCompound;
+美:美+ADJ+PROP NextCompound;
+干:干+ADJ+PROP NextCompound;
+平:平+ADJ+PROP NextCompound;
+近:近+ADJ+PROP NextCompound;
+渴:渴+ADJ+PROP NextCompound;
+晚:晚+ADJ+PROP NextCompound "weight: 1.0" ;
+好:好+ADJ+RES NextCompound;
+好:好+ADJ+PROP NextCompound;
+高:高+ADJ+PROP NextCompound;
+深:深+ADJ+PROP NextCompound;
+新:新+ADJ+PROP NextCompound;
+北:北+ADJ+PROP NextCompound "weight: 0.5" ;
+边:边+ADJ+PROP NextCompound "weight: 0.5" ;
+完:完+ADJ+PROP NextCompound ;
+动:动+ADJ+PROP NextCompound ;
+飞:飞+ADJ+PROP NextCompound ;
+福:福+ADJ+PROP NextCompound ;
+初:初+ADJ+PROP NextCompound;
+别:别+ADJ+PROP NextCompound "weight: 0.2" ;
+先:先+ADJ+PROP NextCompound "weight: 1.0" ;
+
+LEXICON AdvRoots
+先:先+ADV NextCompound;
+才:才+ADV NextCompound "weight: 0.5" ;
+也:也+ADV NextCompound;
+初:初+ADV NextCompound "weight: 0.5" ;
+别:别+ADV NextCompound;
+后:后+ADV NextCompound "weight: 0.5" ;
+起:起+ADV NextCompound "weight: 1.0" ;
+白:白+ADV NextCompound "weight: 1.0" ;
+
+LEXICON PronRoots
+咱:咱+PRON NextCompound;
+它:它+PRON NextCompound;
+哪:哪+PRON NextCompound;
+这:这+PRON NextCompound;
+他:他+PRON NextCompound;
+
+LEXICON NextCompound
+0:%  NounRoots ;
+0:%  VerbRoots ;
+0:%  AdjRoots ;
+0:%  AdvRoots ;
+0:%  PronRoots ;
+# ;
+
+END
