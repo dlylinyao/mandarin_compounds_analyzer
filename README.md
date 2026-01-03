@@ -25,14 +25,10 @@ Run the Python script to calculate accuracy and analyze errors.
 python3 result_analysis.py
 ```
 File Description
-* `src/mandarin_compounds.lexc`: Lexicon definitions (POS and SemTags).
 
-* `src/mandarin_compounds.xfst`: Structural rules and weights.
-
-* `data/test_words.txt`: Test set containing 165 compounds.
-
-* `data/test_words_structrues.csv`: The ground truth dataset containing 165 test compounds paired with their manually annotated expected structures (e.g., ModHead, VerbObj), used for accuracy evaluation.
-
-* `scripts/result_analysis.py`: Evaluation script.
-
-* `results/experiment_results_comparison.csv`: Final output file comparing system predictions vs. ground truth.
+* `src/mandarin_compounds.lexc`: Lexicon definitions (POS and SemTags) .
+* `src/mandarin_compounds.xfst`: Structural rules and weights used to compile the analyzer .
+* `data/test_words.txt`: Raw input file containing 165 compounds for `hfst-lookup` testing .
+* `data/test_words_structrues.csv`: Ground truth dataset with expected structures (e.g., ModHead, VerbObj), used for accuracy evaluation .
+* `scripts/result_analysis.py`: Python script that calculates accuracy and generates the comparison report .
+* `results/experiment_results_comparison.csv`: Final output comparing system predictions vs. ground truth, used for error analysis .
